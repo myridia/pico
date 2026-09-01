@@ -1,3 +1,5 @@
+<img src="pico.svg" alt="pico" width="120">
+
 # Pico
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
